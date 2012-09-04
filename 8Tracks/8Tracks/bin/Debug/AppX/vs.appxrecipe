@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>IAN-DEV</Machine>
+    <WindowsUser>Ian</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D5F92263E6EC7D22174DC3036364FBD3AAA1B552D3FD0FE3C4E15BA1C77E90BA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>12ced958-6844-4de3-aa75-a35d431e69af_1.0.0.0_neutral__2xbmf2jyx4pdt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>12ced958-6844-4de3-aa75-a35d431e69af_2xbmf2jyx4pdt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>12ced958-6844-4de3-aa75-a35d431e69af</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-03T17:19:22.045</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\8Tracks.exe">
+      <PackagePath>8Tracks.exe</PackagePath>
+      <Modified>2012-09-03T20:03:25.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\8Tracks.pdb">
+      <PackagePath>8Tracks.pdb</PackagePath>
+      <Modified>2012-09-03T20:03:25.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\8TracksEngine.pdb">
+      <PackagePath>8TracksEngine.pdb</PackagePath>
+      <Modified>2012-09-03T20:03:22.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\8TracksEngine.dll">
+      <PackagePath>8TracksEngine.dll</PackagePath>
+      <Modified>2012-09-03T20:03:22.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\packages\Newtonsoft.Json.4.5.7\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-07-15T21:17:07.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\packages\Newtonsoft.Json.4.5.7\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2012-07-15T21:17:07.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T20:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T20:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T20:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T20:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-01-27T13:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-01-27T13:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-01-27T13:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\MixDetailPage.xaml">
+      <PackagePath>MixDetailPage.xaml</PackagePath>
+      <Modified>2012-09-03T19:31:28.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-24T00:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\HomePage.xaml">
+      <PackagePath>HomePage.xaml</PackagePath>
+      <Modified>2012-07-24T21:15:12.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-07-15T20:54:43.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-09-03T16:37:57.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-15T20:54:43.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-03T17:19:21.880</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

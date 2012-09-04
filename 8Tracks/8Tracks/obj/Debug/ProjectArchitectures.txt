@@ -1,0 +1,2 @@
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8Tracks\8Tracks.csproj;neutral
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\8TracksClient.csproj;neutral

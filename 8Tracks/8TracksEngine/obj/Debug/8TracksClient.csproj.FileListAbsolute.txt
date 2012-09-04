@@ -1,0 +1,17 @@
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\8TracksEngine.dll
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\8TracksEngine.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\8TracksEngine.pri
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\8TracksEngine.dll
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\8TracksEngine.pdb
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\priconfig.xml
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\layout.resfiles
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\resources.resfiles
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\pri.resfiles
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ian\Documents\Visual Studio 2012\Projects\8Tracks\8TracksEngine\obj\Debug\8TracksClient.csprojResolveAssemblyReference.cache
